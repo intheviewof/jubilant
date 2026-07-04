@@ -1,6 +1,7 @@
 # Warning Tools
 > [!CAUTION]
-> Some sites do not have direct links 
+> Some sites do not have direct links. This is on purpose.
+
 Sites that may be dangerous. There is little to no proof they are dangerous, but you should be careful where you choose to browse.
 
 ## Potentially malicious sites

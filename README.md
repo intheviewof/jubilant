@@ -22,9 +22,14 @@ all markdown is human-written. jubilant is human curated, with no ai having been
 # begin
 | Page | Description |
 | :--- | :---------- |
+| [Beginner's Guide](meta/begin.md) | The essentials for anyone. |
 | [Warning Tools](meta/warning.md) | Tools & sites that may be malicious |
 | [Unsafe Tools](meta/unsafe.md) | Tools & sites you should never visit |
 | &nbsp; | &nbsp; |
+| [Gaming](windows/gaming.md) | Gaming on Windows! |
+| [Music](general/music.md) | Listening to music! |
+| [Streaming](general/streaming.md) | Streaming TV and movies! |
 | [Software](windows/software.md) | A list of helpful softwares |
+| [Websites](general/websites.md) | Websites for a variety of purposes |
 | &nbsp; | &nbsp; |
 | [awesome-lists](meta/awesome.md) | More resources! |
