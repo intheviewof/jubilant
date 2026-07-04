@@ -3,8 +3,10 @@
 > jubilant is still in a very early stage. expect formatting inconsistencies
   
 jubilant is a self-named "meta-resource", similar to megathreads found on Reddit & awesome-lists found on GitHub.
+
+**jubilant does not host any files.**
   
-all mardkwon jubilant does not host any files.
+all markdown is human-written. jubilant is human curated, with no ai having been used in the process of making jubilant.
 
 # legend
 | Icon | Description |
