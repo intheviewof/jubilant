@@ -4,7 +4,7 @@
   
 jubilant is a self-named "meta-resource", similar to megathreads found on Reddit & awesome-lists found on GitHub.
   
-jubilant does not host any files.
+all mardkwon jubilant does not host any files.
 
 # legend
 | Icon | Description |
@@ -23,3 +23,5 @@ jubilant does not host any files.
 | [Software](windows/software.md) | A list of helpful softwares |
 | &nbsp; | &nbsp; |
 | [awesome-lists](meta/awesome.md) | More resources! |
+| [Unsafe Sites](meta/unsafe.md) | Sites you should never visit |
+| [Warning Sites](meta/warning.md) | Sites that may be malicious |
