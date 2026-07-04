@@ -11,7 +11,7 @@ all markdown is human-written. jubilant is human curated, with no ai having been
 # legend
 | Icon | Description |
 | :--- | :---------- |
-| 🌐 | Meta-resource/guide links outside of jubilant |
+| 🌐 | Outside links |
 | 🏆 | Best of the best |
 | 🌟 | Recommended |
 | &nbsp; | &nbsp; |
@@ -21,7 +21,6 @@ all markdown is human-written. jubilant is human curated, with no ai having been
 
 # begin
 | Page | Description |
-| :--- | :---------- |
 | [Software](windows/software.md) | A list of helpful softwares |
 | &nbsp; | &nbsp; |
 | [awesome-lists](meta/awesome.md) | More resources! |
