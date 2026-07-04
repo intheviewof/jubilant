@@ -1,5 +1,5 @@
 # jubilant
-> [!INFO]
+> [!NOTE]
 > jubilant is still in a very early stage. expect formatting inconsistencies
   
 jubilant is a self-named "meta-resource", similar to megathreads found on Reddit & awesome-lists found on GitHub.
