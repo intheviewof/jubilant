@@ -18,7 +18,7 @@ WIP
 > [!NOTE]
 > Some remoting software may require your network type to be set to 'Private' to work. 
 
-- 🏆 **[Parsec](https://parsec.app/)** - Online[^1] / All PC & Web / Requires Sign-Up
+- 🏆 **[Parsec](https://parsec.app/)** - Online[^1] / All PC, Android & Web / Requires Sign-Up
 - 🌟 **[RustDesk](https://rustdesk.com/)**[^3] - Online / All PC & Mobile
 - **[Aspia](https://aspia.org/)** - LAN / Use Host & Console[^4] / All PC[^5]
 [^1]: You must add your friends' Parsec accounts for online to work. Friends can only "request" to connect, make sure to open the app when they request. Otherwise, all your devices work without asking.
