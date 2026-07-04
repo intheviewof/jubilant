@@ -22,8 +22,9 @@ all markdown is human-written. jubilant is human curated, with no ai having been
 # begin
 | Page | Description |
 | :--- | :---------- |
+| [Warning Sites](meta/warning.md) | Sites that may be malicious |
+| [Unsafe Sites](meta/unsafe.md) | Sites you should never visit |
+| &nbsp; | &nbsp; |
 | [Software](windows/software.md) | A list of helpful softwares |
 | &nbsp; | &nbsp; |
 | [awesome-lists](meta/awesome.md) | More resources! |
-| [Unsafe Sites](meta/unsafe.md) | Sites you should never visit |
-| [Warning Sites](meta/warning.md) | Sites that may be malicious |
