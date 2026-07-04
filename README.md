@@ -14,10 +14,15 @@ all markdown is human-written. jubilant is human curated, with no ai having been
 | 🌐 | Outside links |
 | 🏆 | Best of the best |
 | 🌟 | Recommended |
+
+| Slang | Meaning |
+| :--- | :---------- |
+| Windows Native | Native windows executable (NOT from the Microsoft Store) |
 | &nbsp; | &nbsp; |
 | GH | Short for "GitHub" |
 | GL | Short for "GitLab" |
 | DC | Short for "Discord" |
+| TG | Short for "Telegram" |
 
 # begin
 | Page | Description |
@@ -28,8 +33,9 @@ all markdown is human-written. jubilant is human curated, with no ai having been
 | &nbsp; | &nbsp; |
 | [Gaming](windows/gaming.md) | Gaming on Windows! |
 | [Music](general/music.md) | Listening to music! |
-| [Streaming](general/streaming.md) | Streaming TV and movies! |
+| [Streaming](general/streaming.md) | Streaming TV, movies and YouTube! |
 | [Software](windows/software.md) | A list of helpful softwares |
 | [Websites](general/websites.md) | Websites for a variety of purposes |
+| [Other](general/other.md) | Other! |
 | &nbsp; | &nbsp; |
 | [awesome-lists](meta/awesome.md) | More resources! |
