@@ -1,14 +1,12 @@
-# Warning Sites
+# Warning Tools
+> [!CAUTION]
+> Some sites do not have direct links 
 Sites that may be dangerous. There is little to no proof they are dangerous, but you should be careful where you choose to browse.
 
-## Potentially malicious
-> [!CAUTION]
-> The following sites are potentially dangerous, therefore no direct links will be provided.
-
+## Potentially malicious sites
 - SteamRIP - Swiftly denied suspicious DLL file with 41 detections with no explanation given / Image proof WIP
 
-## Ad-filled
-> [!CAUTION]
-> Always use an adblocker before doing anything on the internet.
+# Miscelaneous
+Anything that doesn't fit any other category.
 
-WIP
+- Ascendara - Uses SteamRIP source
