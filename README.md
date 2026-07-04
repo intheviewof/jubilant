@@ -21,6 +21,7 @@ all markdown is human-written. jubilant is human curated, with no ai having been
 
 # begin
 | Page | Description |
+| :--- | :---------- |
 | [Software](windows/software.md) | A list of helpful softwares |
 | &nbsp; | &nbsp; |
 | [awesome-lists](meta/awesome.md) | More resources! |
