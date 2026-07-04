@@ -1,6 +1,5 @@
 # Software
-A bunch of varied Software types for Windows
-WIP
+A bunch of software for a wide variety of purposes.
 
 # Download Sites
 - 🏆 **[Nsane Forums](https://nsaneforums.com)** - Software / Requires Sign-Up

@@ -1,5 +1,5 @@
 # awesome-lists
-WIP
+A broader list of more resources to try!
 
 # meta-resources
 - 🏆 **[FMHY](https://fmhy.net)** - Resources / Piracy / [GH](https://github.com/fmhy/edit), [DC](https://github.com/fmhy/FMHY/wiki/FMHY-Discord)
