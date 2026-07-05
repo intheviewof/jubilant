@@ -15,8 +15,8 @@ WIP
 > Most download managers with browser integration will require you to have the manager open while using your browser.
 >   
 > Download managers may allow you to pause downloads better, and make downloads in general faster.
-
-- [AB Download Manager](https://abdownloadmanager.com/) - Simple[^1] Download Manager / Preset Categories
+- [Internet Download Manager](https://rentry.co/FMHYB64#idm) - Paid / Customizable Categories / Requires Maintenance
+- [AB Download Manager](https://abdownloadmanager.com/) - Free / Simple[^1] / Preset Categories
 [^1]: Downloads in browser are buggy, and will require the download manager to be open, or else the download will never start.
 
 # Machine Tools
@@ -38,6 +38,10 @@ WIP
 - 🏆 **[Apollo](https://github.com/ClassicOldSong/Apollo) & [Moonlight](https://moonlight-stream.org/)** - Moonlight Server & Client / LAN & Online[^5] / All PC & [Android](https://github.com/ClassicOldSong/moonlight-android)
 - [TigerVNC](https://tigervnc.org/) - VNC Client
 [^6]: Moonlight allegedly supports online connectivity, however I'm not sure how it works. LAN works fine out of the box, but requires a pairing if using Apollo/Sunshine.
+
+## VPNs
+- 🏆 **[Proton VPN](https://protonvpn.com/)** - Free & Paid / [More Info](https://fmhy.net/privacy#vpn)
+- **[RiseUp VPN](https://riseup.net/en/vpn)** - Free
 
 # Miscelaneous
 WIP
