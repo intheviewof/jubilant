@@ -13,9 +13,21 @@ Gaming tools, downloading & torrenting games, recording and more!
 - **[FreedomChat](https://modrinth.com/plugin/freedomchat)** - Prevent chat reports
 
 ### Mods
-- **[No Chat Reports](https://modrinth.com/mod/no-chat-reports)** - Counteract chat reports[^3] / Required on server
-- **[No Chat Restrictions](https://modrinth.com/mod/no-chat-restrictions)** - Unlock chat in Age Verification-enforced regions / Partially bypass multiplayer bans[^4] / Client only
-- **[Sodium](https://modrinth.com/mod/sodium)** - Improve FPS / [Shader Addon](https://modrinth.com/mod/iris)
+#### Essentials / Optimization
+- 🏆 **[No Chat Reports](https://modrinth.com/mod/no-chat-reports)** - Counteract chat reports[^3] / Required on server
+- 🏆 **[No Chat Restrictions](https://modrinth.com/mod/no-chat-restrictions)** - Unlock chat in Age Verification-enforced regions / Partially bypass multiplayer bans[^4] / Client only
+- 🏆 **[Sodium](https://modrinth.com/mod/sodium)** - Improve FPS / [Shader Addon](https://modrinth.com/mod/iris)
+- 🏆 **[FerriteCore](https://modrinth.com/mod/ferrite-core)** - Memory optimizations
+- 🌟 **[Mod Menu](https://modrinth.com/mod/modmenu)** - Adds Mods button to Fabric / Client only
+- 🌟 **[ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)** - Client optimizations / HUD caching
+- **[Lithium](https://modrinth.com/mod/lithium)** - Server optimizations / Some client features
+- [BadOptimizations](https://modrinth.com/mod/badoptimizations) - Small client optimizations
+#### Optional
+- 🏆 **[Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)** - Voice chat mod / Required on server / Optional on clients
+- 🏆 **[Roughly Enough Items](https://modrinth.com/mod/rei)** or **[EMI](https://modrinth.com/mod/emi)** - Recipe book alternative / Enable 'Only Show Items when Search is Active' (REI)
+- 🌟 **[Controlling](https://modrinth.com/mod/controlling)** - Add search bar to controls menu
+- [Chat Heads](https://modrinth.com/mod/chat-heads) - Show player heads in chat
+- [Zoomify](https://modrinth.com/mod/zoomify) - Optifine "Zoom" port
 ### Guides
 - 🏆 **[jvm-args](https://exa.y2k.diy/garden/jvm-args/)** - Java Arguments guide / Myth Debunking
 ## General

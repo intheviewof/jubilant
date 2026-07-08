@@ -12,8 +12,8 @@ all markdown is human-written. jubilant is human curated, with no ai having been
 | Icon | Description |
 | :--- | :---------- |
 | 🌐 | Outside links |
-| 🏆 | Best of the best |
-| 🌟 | Recommended |
+| 🏆 | Best of, highly recommended |
+| 🌟 | Other good choices |
 
 | Slang | Meaning |
 | :--- | :---------- |
