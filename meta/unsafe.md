@@ -8,9 +8,9 @@ Tools that are unsafe, no longer useful, or otherwise garbage.
 ## Antiviruses
 - Avast - [Collects and sells user data](https://en.wikipedia.org/wiki/Avast#Collection_and_sale_of_user_data)
 - AVG - Owned by Avast
+- Avira - Owned by Avast
 - Norton - Owned by Avast / Preinstalled Crap
 - McAfee - Preinstalled Crap
-- Avira - Owned by Avast
 
 # Piracy
 - IGG Games - [Doxxing](https://fmhy.net/unsafe#game-sites) another site owner / [Adding DRM to games](https://imgur.com/screenshot-275-png-pNjo10d) / Invasive ads

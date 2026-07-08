@@ -4,10 +4,13 @@
 
 Sites that may be dangerous. There is little to no proof they are dangerous, but you should be careful where you choose to browse.
 
-## Potentially malicious sites
+## Potentially malicious sites & apps
+Sites and applications that are suspicious, but not proven malicious.
+
 - SteamRIP - Swiftly denied suspicious DLL file with 41 detections with no explanation given / Image proof WIP
+- Ascendara - Uses SteamRIP as a main source
 
-# Miscelaneous
-Anything that doesn't fit any other category.
+## Outdated
+Resources that were once king, but have grown to be outdated or abandoned.
 
-- Ascendara - Uses SteamRIP source
+- [TheUsefulLists](https://github.com/TheUsefulLists/usefulmods) / Seemingly abandoned
